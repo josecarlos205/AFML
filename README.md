@@ -1,4 +1,4 @@
 # AFML
  Site em desenvolvimento
 
- Estou criando um site agora para gerenciar mo meu repositório
+ Estou criando um site agora para gerenciar no meu repositório
